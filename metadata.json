@@ -1,0 +1,5 @@
+{
+  "name": "Legal Clause Risk QA Engine",
+  "description": "AI-powered contract analysis system that extracts clauses, classifies risks, simplifies legal language, and answers queries using Gemini.",
+  "requestFramePermissions": []
+}
